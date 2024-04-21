@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.wikapo.thepointcounter", appContext.packageName)
+        assertEquals("com.wikapo.punktator", appContext.packageName)
     }
 }

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="screen_prepare">Przygotuj licznik</string>
+    <string name="choose_player_amount">Wybierz ilość graczy\n</string>
+    <string name="choose_player_colors">Wybierz kolory</string>
+    <string name="add_player">Dodaj gracza</string>
+    <string name="create">Stwórz</string>
+</resources>

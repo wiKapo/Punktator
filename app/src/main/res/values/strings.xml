@@ -1,3 +1,8 @@
 <resources>
-    <string name="app_name">Punktator</string>
+    <string name="app_name" translatable="false">Punktator</string>
+    <string name="screen_prepare">Prepare the counter</string>
+    <string name="choose_player_amount">Select the number of players</string>
+    <string name="choose_player_colors">Choose colors</string>
+    <string name="add_player">Add a player</string>
+    <string name="create">Create</string>
 </resources>
